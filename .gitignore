@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+*.md
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs
+*.log
+logs/
+
